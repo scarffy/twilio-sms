@@ -5,4 +5,4 @@
 3. Click on 'Send WhatsApp' to send WhatsApp message
 4. Click on 'Send SMS' to send SMS message
 
-
+![](Screenshot/Screen Shot 2020-02-07.png)
